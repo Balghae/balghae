@@ -1,8 +1,8 @@
 ### 🌻Bal0nes🌻
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,ts,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=html,mongodb,bash,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,ts,guthub" /><br>
+    <img src="https://skillicons.dev/icons?i=vscodehtml,mongodb,git,bash" />
   </a>
 </p>
 
