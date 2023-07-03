@@ -1,4 +1,4 @@
-### 🌻Bal0nes🌻
+### 🌾 Bal0nes 🌾  
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,ts,github" /><br>
