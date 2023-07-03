@@ -2,7 +2,7 @@
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,ts,guthub" /><br>
-    <img src="https://skillicons.dev/icons?i=vscodehtml,mongodb,git,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,mongodb,git,bash" />
   </a>
 </p>
 
