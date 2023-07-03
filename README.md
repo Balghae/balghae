@@ -1,7 +1,7 @@
 ### 🌾 Bal0nes 🌾  
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,ts,github,vscode,html,mongodb,git,bash" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,ts,github,vscode,mongodb,git,bash" />
   </a>
 </p>
 
