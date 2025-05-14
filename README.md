@@ -1,7 +1,7 @@
 <h2 align="center">🌻 Bal0nes 🌻</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,ts,github,vscode,mongodb,git,bash" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,nodejs,github,vscode,mongodb,bash" />
   </a>
 </p>
 
